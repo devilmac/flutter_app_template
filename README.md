@@ -12,7 +12,7 @@ This project contains the following features:
 My goal on this project is to have a template that:
  - uses the repository design pattern to load data from local database or from a remote web service
  - manages generic actions of the app using the command design pattern
- - in genral, a clean architecture of the whole project
+ - in general, a clean architecture of the whole project
 
 Other features will be added in the future.
 
